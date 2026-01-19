@@ -16,4 +16,16 @@ int main(){
     }
 // Time Complexity Of set in log(n);
 // Implementation By Using self balancing tree (Avial tree)
+
+/*Operation On Set.
+
+Operation	Syntax	Time Complexity
+Create	set<int> s;	O(1)
+Insert	s.insert(value);	O(log n)
+Search	s.find(value);	O(log n)
+Delete	s.erase(value);	O(log n)
+Check Exists	s.count(value);	O(log n)
+Size	s.size();	O(1)
+Empty Check	s.empty();	O(1)
+*/
 }
